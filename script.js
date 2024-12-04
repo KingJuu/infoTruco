@@ -207,7 +207,7 @@ const data = [
       },
       {
         "id": 17,
-        "pergunta": "Quantas rodas tinha a primeira bicicleta",
+        "pergunta": "Quantas rodas tinha a primeira bicicleta?",
         "alternativas": {
           "0": "Uma",
           "1": "Quatro",
@@ -416,7 +416,7 @@ const data = [
       },
       {
         "id": 36,
-        "pergunta": "você tem um isqueiro.Numa cabana com uma vela, uma lamparina e uma lareira, o que você acende primeiro?",
+        "pergunta": "Você tem um isqueiro. Numa cabana com uma vela, uma lamparina e uma lareira, o que você acende primeiro?",
         "alternativas": {
           "0": "A vela",
           "1": "A lamparina",
@@ -731,7 +731,7 @@ const data = [
                 "2": "Samsung",
                 "3": "Sony"
               },
-              "correct": "2"
+              "correct": "0"
             },
             {
               "id": 65,
